@@ -12,6 +12,7 @@ You can use relative path or absolute path to delete.\
 
 ## Delete Directories:
 ![delete directory](https://assets.telegraphindia.com/telegraph/2020/Sep/1600593720_1shutterstock_406413301.jpg)
+
 To delete empty folders, we need to use the **-d** option with **rm**. For example, below command would remove the cats directory (only if it's a already empty)\
 ```bash
 rm -d cats
