@@ -1,12 +1,3 @@
----
-title: 'Navigate Between Folders'
-date: '2022-10-16'
-image: basic-command-nomenclatures.jpg
-excerpt: We will learn all about command structures look like as well as arguments and options. We also learn combining options and long form options and when what have to use! Also learn some commands.
-category: linux-commands
-isFeatured: false
----
-
 ## nano
 ![nano text editor](https://tecnstuff.net/wp-content/uploads/2019/08/install-use-nano-text-editor.jpg)\
 nano is a simple text editor that we can access right from terminal. it's far accessible than other popular command-line editors like vim and emacs.\
