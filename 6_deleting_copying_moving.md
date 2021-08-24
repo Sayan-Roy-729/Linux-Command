@@ -1,12 +1,3 @@
----
-title: 'Navigate Between Folders'
-date: '2022-10-16'
-image: basic-command-nomenclatures.jpg
-excerpt: We will learn all about command structures look like as well as arguments and options. We also learn combining options and long form options and when what have to use! Also learn some commands.
-category: linux-commands
-isFeatured: false
----
-
 ## Delete files (**rm**):
 We use the remove (rm) command to remove files from our machine. Syntax of this command is
 ```bash
